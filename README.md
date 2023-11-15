@@ -80,11 +80,11 @@ If requirements above are not installed in your computer, you'll need to install
 
 - Clone the repository
   ```sh
-  git clone https://github.com/denielden/react-rest-countries-weather-api.git
+  git clone https://github.com/travolgi/react-countries-weather-api.git
   ```
 - Navigate to repository folder
   ```sh
-  cd react-rest-countries-weather-api
+  cd react-countries-weather-api
   ```
 - Install npm packages
   ```sh
