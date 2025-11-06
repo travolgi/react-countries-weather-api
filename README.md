@@ -1,6 +1,6 @@
 # React Countries & Weather API with color theme switcher
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/98f68dcc-743c-492b-90a3-8d875d59ebee/deploy-status)](https://app.netlify.com/sites/travolgi-react-countries-weather-api/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/583783c1-810c-416c-a90c-ab33dd232ec8/deploy-status)](https://app.netlify.com/projects/react-countries-weather-api/deploys)
 
 This application gives some information about all countries in the world, such us country data, weather and map. 
 
